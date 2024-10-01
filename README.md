@@ -8,15 +8,15 @@ For å få tilgang til GitHub organisasjonen må du gjøre noen trinn.
 * Du trenger IKKE å endre "Primary email address", den skal bare være i listen.
 
 ![image](https://github.com/user-attachments/assets/d4f131fa-2db1-4433-8ff5-5763c31e0014)
-
-
+  
+*Dette repo-et er offentlig, derfor er epost-adresser skjult*
 
 ## Hjelp oss å gjøre vår jobb enklere. 
 Det er ingen måte for foreleser å knytte ditt github brukernavn, til ditt UiT brukernavn. IFI kan ikke forlange at ditt UiT brukernavn skal være synlig på din GitHub profil. 
 Dette kompliserer unødvendig. Derfor ønsker vi at dere i Readme alltid oppgir hvem dere er, med GitHub brukernavn, UiT brukernavn og deres navn. 
 Eksempel:  
 ![image](https://github.com/user-attachments/assets/08914ca0-a531-4f78-b5e6-0d168b727b6e)
-*Dette repo-et er offentlig, derfor er epost-adresser skjult*
+
 
 ## Det som mangler nå, for at du skal ha tilgang til UiT-IFI, GitHub område. 
 Tilganger og invitasjon fra UiT-IFI. Dette ordnes av foreleser.  
