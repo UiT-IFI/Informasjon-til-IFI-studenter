@@ -7,7 +7,8 @@ For å få tilgang til GitHub organisasjonen må du gjøre noen trinn.
   2. For de med UH brukernavn (nytt format) abcde1234@uit.no.
 1. Du trenger IKKE å endre "Primary email address", den skal bare være i listen.
 
-![image](https://github.com/user-attachments/assets/b415d732-8d75-4133-874a-6cdf55682491)
+![image](https://github.com/user-attachments/assets/46334feb-260b-4933-add2-6eafbfe7632f)
+
 
 ## Hjelp oss å gjøre vår jobb enklere. 
 Det er ingen måte for foreleser å knytte ditt github brukernavn, til ditt UiT brukernavn. IFI kan ikke forlange at ditt UiT brukernavn skal være synlig på din GitHub profil. 
