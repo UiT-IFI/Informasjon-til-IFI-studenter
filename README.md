@@ -1,4 +1,7 @@
 # Informasjon-til-IFI-studenter
+Dette er "bare et forslag", ikke ment som noe permanent. Slett repo hvis ønskelig, no problem!  
+Uansett bør slik tekst være på forsiden til repo, optimalt som public, men hvordan man gjør slikt public har jeg ikke gjort tidligere. 
+
 ## Registrer ditt UiT brukernavn på GitHub.com
 For å få tilgang til GitHub organisasjonen må du gjøre noen trinn. 
 * Gå til [Din GitHub profil, epost instillinger](https://github.com/settings/emails)
